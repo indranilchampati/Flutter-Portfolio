@@ -29,7 +29,7 @@ Hello, I am Indranil, and I am a Cloud Application Developer. With over 1 year o
 
 String location = "Pune, India";
 String website = "indranilchampati";
-String portfolio = "blank";
+String portfolio = "https://indranil-portfolio-576d6.web.app";
 String email = "champatiindranil@gmail.com";
 
 List<Project> projectList = [
