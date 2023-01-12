@@ -53,8 +53,8 @@ List<Project> projectList = [
       link: "https://github.com/indranilchampati/Chess-Game.git"),
   Project(
       name: "Portfolio",
-      description: "Play chess with friends in office and online with computer",
-      link: "https://github.com/indranilchampati/Chess-Game.git"),
+      description: "Personal Portfolio made with flutter",
+      link: "https://github.com/indranilchampati/Flutter-Portfolio.git"),
   Project(
       name: "Fluid Game",
       description:
