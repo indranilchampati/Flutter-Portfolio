@@ -63,7 +63,7 @@ flutter:
   assets:
     - assets/images/
 
-    - build\web\assets\assets\images
+   # - build\web\assets\assets\images
 
   #   - images/a_dot_ham.jpeg
 
